@@ -7,4 +7,4 @@
 
 GIS CTF
 
-[CTF Certificate](./certificate.pdf)
+[CTF Certificate](./certificate2.pdf)
