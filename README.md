@@ -8,3 +8,7 @@
 GIS CTF
 
 [CTF Certificate](./certificate2.pdf)
+
+Student CTF
+
+[CTF Certificate](./certificate_studentCTF.pdf)
